@@ -44,6 +44,10 @@ function sortearAmigo() {
     alert("No hay amigos disponibles para sortear");
     return; // Detener la ejecución si el array está vacío
   }
+  
+  //Math.random(); // Por ejemplo, genera 0.75
+//Math.random() * amigos.length; // Si amigos.length = 3, genera 2.25
+//Math.floor(2.25); // Redondea hacia abajo, obteniendo 2
 
   //generar un índice aleatorio
   const indiceAleatorio = Math.floor(Math.random() * amigos.length);
