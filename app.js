@@ -4,6 +4,7 @@ let amigos = [];
 function agregarAmigo() {
     // Capturar el valor del campo de entrada
     const input = document.getElementById('amigo');
+    const nombre = input.value.trim(); // Eliminar espacios en blanco al inicio y final
   
     if (nombre === "") {
       alert("Por favor, inserte un nombre.");
