@@ -44,15 +44,19 @@ amigo-secreto/
  Capturas de Pantalla
 1. Interfaz Inicial
 ![image](https://github.com/user-attachments/assets/77ebd462-a559-490c-9732-a0bce415ecfa)
+
 La interfaz inicial muestra un campo de texto para ingresar nombres y un botón para añadir amigos.
 
-2. Agregar Amigos
+3. Agregar Amigos
 ![image](https://github.com/user-attachments/assets/82a6f0e6-9ac0-40cd-bb7d-30329e6d4cf9)
+
 Los nombres ingresados se muestran en una lista dinámica.
 
-3. Realizar el Sorteo
+5. Realizar el Sorteo
 ![image](https://github.com/user-attachments/assets/a7a708aa-e22d-42ab-bda8-04689723bbdc)
+
 El resultado del sorteo se muestra en la sección de resultados.
+
 Resultado se ve asi:
 ![image](https://github.com/user-attachments/assets/34bcd7a3-e523-4681-a582-64593786d488)
 
